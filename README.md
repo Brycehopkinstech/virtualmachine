@@ -9,6 +9,7 @@ This project entails a brief explanation on how to create a resouce using Micros
 
 - Microsoft Azure
 - Remote Desktop
+- Azure Virtual Machine
 
 <h2>Operating Systems Used </h2>
 
