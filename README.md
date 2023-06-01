@@ -18,11 +18,11 @@ This project entails a brief explanation on how to create a resouce using Micros
 <h2>Creating Environment Steps</h2>
 
 Step 1: Create your Virtual Machine
-![create virtual machine](https://github.com/Brycehopkinstech/virtualmachine/assets/133280640/173f6df4-5eb9-41e6-91a8-42cd2ac70480)
+![create virtual machine](https://github.com/Brycehopkinstech/virtualmachine/assets/133280640/ef5ac28c-2b35-47e1-9c65-2b6a9f02664e)
 
 Step 2: Name your VM and select your Operating System
-![name virtual machine and select windows 10 image](https://github.com/Brycehopkinstech/virtualmachine/assets/133280640/a3d5b8df-7d57-4076-ade0-e117d3fb9d93)
+![name virtual machine and select windows 10 image](https://github.com/Brycehopkinstech/virtualmachine/assets/133280640/e57f24ce-1b09-4b6a-b3b2-77eb03b254fc)
 
 Step 3:Create admin username and password then click Review + Create
-![create admin username and password  click Review + Create](https://github.com/Brycehopkinstech/virtualmachine/assets/133280640/d123e18c-f73c-44f5-8b48-546891de9881)
+![create admin username and password  click Review + Create](https://github.com/Brycehopkinstech/virtualmachine/assets/133280640/4b442226-c806-47c4-9493-76fdcb65832f)
 
